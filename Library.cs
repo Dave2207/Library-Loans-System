@@ -1,10 +1,11 @@
-﻿namespace Biblio
+﻿using System;
+namespace Biblio
 {
     public class Library
     {
-        private List<Paper> papers_list {get; set;}
-        private List<Client> clients_list {get; set;}
-        private List<Loan> loans_list {get; set;}
+        List<Paper> papers_list {get; set;}
+        List<Client> clients_list {get; set;}
+        List<Loan> loans_list {get; set;}
         
         public Library()
         {
@@ -13,6 +14,21 @@
             loans_list = new List<Loan>();
         }
 
+        public void addPaper(Paper p){
+            papers_list.Add(p);
+        }
+
+        public string findTitleById(string idPaper){
+            string title = "";
+            bool found = false;
+            int i = 0;
+            while (!found && i<papers_list.Count)
+            {
+                
+            }
+
+            return title;
+        }
     }
 }
 

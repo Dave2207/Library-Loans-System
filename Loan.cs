@@ -2,13 +2,13 @@ namespace Biblio
 {
     public class Loan
     {
-        private int id { get; set; }
-        private DateTime start_date { get; set; }
-        private DateTime return_date { get; set; }
-        private string clientID { get; set; }
-        private Paper paper { get; set; }
-        private bool status { get; set; }
-        private bool prorogated { get; set; }
+        int id { get; set; }
+        DateTime start_date { get; set; }
+        DateTime return_date { get; set; }
+        string clientID { get; set; }
+        Paper paper { get; set; }
+        bool status { get; set; }
+        bool prorogated { get; set; }
 
         public Loan(int id, DateTime return_date, string clientID, Paper paper)
         {
