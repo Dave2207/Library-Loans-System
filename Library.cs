@@ -2,10 +2,10 @@
 {
     public class Library
     {
-        List<Paper> papers_list { get; set; }
-        List<Client> clients_list { get; set; }
-        List<Loan> loans_list { get; set; }
-        int idLoanGenerator { get; set; }
+        public List<Paper> papers_list { get; set; }
+        public List<Client> clients_list { get; set; }
+        public List<Loan> loans_list { get; set; }
+        public int idLoanGenerator { get; set; }
 
         public Library()
         {
@@ -18,6 +18,10 @@
         public void addPaper(Paper p)
         {
             papers_list.Add(p);
+        }
+
+        public void addClient(Client c){
+            clients_list.Add(c);
         }
 
         public string findTitleById(string idPaper)
@@ -72,7 +76,7 @@
             return done;
         }
 
-        private Client findClientByID(string idClient)
+        public Client findClientByID(string idClient)
         {
             Client? aux = null;
             bool found = false;
