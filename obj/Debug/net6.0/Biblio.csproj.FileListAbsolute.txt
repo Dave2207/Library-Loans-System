@@ -1,0 +1,15 @@
+/home/david/Public/Biblio/bin/Debug/net6.0/Biblio
+/home/david/Public/Biblio/bin/Debug/net6.0/Biblio.deps.json
+/home/david/Public/Biblio/bin/Debug/net6.0/Biblio.runtimeconfig.json
+/home/david/Public/Biblio/bin/Debug/net6.0/Biblio.dll
+/home/david/Public/Biblio/bin/Debug/net6.0/ref/Biblio.dll
+/home/david/Public/Biblio/bin/Debug/net6.0/Biblio.pdb
+/home/david/Public/Biblio/obj/Debug/net6.0/Biblio.csproj.AssemblyReference.cache
+/home/david/Public/Biblio/obj/Debug/net6.0/Biblio.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/Public/Biblio/obj/Debug/net6.0/Biblio.AssemblyInfoInputs.cache
+/home/david/Public/Biblio/obj/Debug/net6.0/Biblio.AssemblyInfo.cs
+/home/david/Public/Biblio/obj/Debug/net6.0/Biblio.csproj.CoreCompileInputs.cache
+/home/david/Public/Biblio/obj/Debug/net6.0/Biblio.dll
+/home/david/Public/Biblio/obj/Debug/net6.0/ref/Biblio.dll
+/home/david/Public/Biblio/obj/Debug/net6.0/Biblio.pdb
+/home/david/Public/Biblio/obj/Debug/net6.0/Biblio.genruntimeconfig.cache

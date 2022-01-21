@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/oGRZ5sUqOnyxrtb5J0zOb9KH6onj9NEBlxQWLl0Lu5b6TwaqSqDTNqwCIc4wLDcZNScI9CYyHabFSSocxJv2g==",
+  "success": true,
+  "projectFilePath": "/home/david/Public/Biblio/Biblio.csproj",
+  "expectedPackageFiles": [
+    "/home/david/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
