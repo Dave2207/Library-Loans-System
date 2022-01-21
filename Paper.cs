@@ -2,11 +2,11 @@ namespace Biblio
 {
     public class Paper
     {
-        string id { get; set; }
-        string title { get; set; }
-        int qtyCopies { get; set; }
-        bool status { get; set; }
-        string subject { get; set; }
+        public string id { get; set; }
+        public string title { get; set; }
+        public int qtyCopies { get; set; }
+        public bool status { get; set; }
+        public string subject { get; set; }
 
         public Paper(string id, string title, int qtyCopies, string subject)
         {

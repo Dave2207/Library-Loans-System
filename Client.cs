@@ -2,11 +2,11 @@ namespace Biblio
 {
     public class Client
     {
-        string id { get; set; }
-        string name { get; set; }
-        string address { get; set; }
-        List<Loan> loans { get; set; }
-        int qtyLoan { get; set; }
+        public string id { get; set; }
+        public string name { get; set; }
+        public string address { get; set; }
+        public List<Loan> loans { get; set; }
+        public int qtyLoan { get; set; }
 
         public Client(string id, string name, string address)
         {
